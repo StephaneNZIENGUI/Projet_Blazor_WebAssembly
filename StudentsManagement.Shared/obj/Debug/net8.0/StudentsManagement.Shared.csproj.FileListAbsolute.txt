@@ -1,0 +1,12 @@
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\bin\Debug\net8.0\StudentsManagement.Shared.deps.json
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\bin\Debug\net8.0\StudentsManagement.Shared.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\bin\Debug\net8.0\StudentsManagement.Shared.pdb
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.sourcelink.json
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\refint\StudentsManagement.Shared.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\StudentsManagement.Shared.pdb
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement.Shared\obj\Debug\net8.0\ref\StudentsManagement.Shared.dll
