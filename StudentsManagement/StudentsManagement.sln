@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagement", "StudentsManagement\StudentsManagement.csproj", "{75E29B20-9BC0-41D2-941E-D174D5AF24CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsManagement", "StudentsManagement\StudentsManagement.csproj", "{75E29B20-9BC0-41D2-941E-D174D5AF24CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagement.Client", "StudentsManagement.Client\StudentsManagement.Client.csproj", "{A9585FF3-E28E-4066-A760-48B1E9108348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsManagement.Client", "StudentsManagement.Client\StudentsManagement.Client.csproj", "{A9585FF3-E28E-4066-A760-48B1E9108348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagement.Shared", "..\StudentsManagement.Shared\StudentsManagement.Shared.csproj", "{458B07F9-02F2-4B88-8CD6-08703564EEDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagement.Shared", "StudentsManagement.Shared\StudentsManagement.Shared.csproj", "{DB93B7C5-B968-4AC5-AF2D-31A68152DBD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{A9585FF3-E28E-4066-A760-48B1E9108348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9585FF3-E28E-4066-A760-48B1E9108348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9585FF3-E28E-4066-A760-48B1E9108348}.Release|Any CPU.Build.0 = Release|Any CPU
-		{458B07F9-02F2-4B88-8CD6-08703564EEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{458B07F9-02F2-4B88-8CD6-08703564EEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{458B07F9-02F2-4B88-8CD6-08703564EEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{458B07F9-02F2-4B88-8CD6-08703564EEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB93B7C5-B968-4AC5-AF2D-31A68152DBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB93B7C5-B968-4AC5-AF2D-31A68152DBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB93B7C5-B968-4AC5-AF2D-31A68152DBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB93B7C5-B968-4AC5-AF2D-31A68152DBD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
