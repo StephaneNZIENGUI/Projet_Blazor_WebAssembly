@@ -2143,6 +2143,11 @@
         "runtime": {
           "StudentsManagement.Client.dll": {}
         }
+      },
+      "StudentsManagement.Shared/1.0.0": {
+        "runtime": {
+          "StudentsManagement.Shared.dll": {}
+        }
       }
     }
   },
@@ -3441,6 +3446,11 @@
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
     },
     "StudentsManagement.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentsManagement.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

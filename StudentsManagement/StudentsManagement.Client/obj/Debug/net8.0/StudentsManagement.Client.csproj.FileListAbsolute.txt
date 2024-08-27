@@ -42,6 +42,8 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Client.pdb
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Client.wasm
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
@@ -361,6 +363,7 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm.gz
@@ -376,6 +379,7 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
@@ -615,6 +619,8 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\icudt_no_CJK.dat
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.pdb
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\StudentsManagement.Client.csproj.AssemblyReference.cache
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\StudentsManagement.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\StudentsManagement.Client.AssemblyInfoInputs.cache
@@ -815,6 +821,7 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\mscorlib.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\netstandard.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\StudentsManagement.Shared.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\StudentsManagement.Client.wasm
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\blazor.boot.json
@@ -1029,6 +1036,8 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\2ad3ixe4y9.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\f2keq0k6gs.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\ll75fc6dm4.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\sa9q1op3e4.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\qhn1dyi6nj.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\e01b3km1wu.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\7e43snk7fp.gz
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\fveyapdap7.gz
@@ -1037,12 +1046,3 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\refint\StudentsManagement.Client.dll
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\StudentsManagement.Client.pdb
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\ref\StudentsManagement.Client.dll
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb.gz
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm.gz
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.dll
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.pdb
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\StudentsManagement.Shared.wasm
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\sa9q1op3e4.gz
-C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\qhn1dyi6nj.gz

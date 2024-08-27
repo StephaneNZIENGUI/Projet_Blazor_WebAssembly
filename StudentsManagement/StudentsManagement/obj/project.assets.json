@@ -8857,8 +8857,8 @@
     },
     "StudentsManagement.Shared/1.0.0": {
       "type": "project",
-      "path": "../../StudentsManagement.Shared/StudentsManagement.Shared.csproj",
-      "msbuildProject": "../../StudentsManagement.Shared/StudentsManagement.Shared.csproj"
+      "path": "../StudentsManagement.Shared/StudentsManagement.Shared.csproj",
+      "msbuildProject": "../StudentsManagement.Shared/StudentsManagement.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8907,9 +8907,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\steph\\OneDrive\\Desktop\\Blazor\\Projet_Blazor_WebAssembly\\StudentsManagement.Shared\\StudentsManagement.Shared.csproj": {
-              "projectPath": "C:\\Users\\steph\\OneDrive\\Desktop\\Blazor\\Projet_Blazor_WebAssembly\\StudentsManagement.Shared\\StudentsManagement.Shared.csproj"
-            },
             "C:\\Users\\steph\\OneDrive\\Desktop\\Blazor\\Projet_Blazor_WebAssembly\\StudentsManagement\\StudentsManagement.Client\\StudentsManagement.Client.csproj": {
               "projectPath": "C:\\Users\\steph\\OneDrive\\Desktop\\Blazor\\Projet_Blazor_WebAssembly\\StudentsManagement\\StudentsManagement.Client\\StudentsManagement.Client.csproj"
             },
