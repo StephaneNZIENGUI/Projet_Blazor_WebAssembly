@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using StudentsManagement.Client;
+using StudentsManagement.Shared.StudentRepository;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 

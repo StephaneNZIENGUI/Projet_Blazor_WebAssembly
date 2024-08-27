@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\StudentsManagement.Shared\StudentsManagement.Shared.csproj" />
     <ProjectReference Include="..\StudentsManagement.Client\StudentsManagement.Client.csproj" />
+    <ProjectReference Include="..\StudentsManagement.Shared\StudentsManagement.Shared.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.7" />

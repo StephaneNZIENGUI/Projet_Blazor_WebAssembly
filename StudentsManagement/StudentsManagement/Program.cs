@@ -5,6 +5,8 @@ using StudentsManagement.Client.Pages;
 using StudentsManagement.Components;
 using StudentsManagement.Components.Account;
 using StudentsManagement.Data;
+using StudentsManagement.Services;
+using StudentsManagement.Shared.StudentRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,7 @@ builder.Services.AddRazorComponents()
 builder.Services.AddCascadingAuthenticationState();
 builder.Services.AddScoped<IdentityUserAccessor>();
 builder.Services.AddScoped<IdentityRedirectManager>();
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 builder.Services.AddScoped<AuthenticationStateProvider, PersistingRevalidatingAuthenticationStateProvider>();
 
 builder.Services.AddAuthentication(options =>

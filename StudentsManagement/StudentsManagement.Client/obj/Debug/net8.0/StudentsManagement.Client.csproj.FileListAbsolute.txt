@@ -1037,3 +1037,12 @@ C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagem
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\refint\StudentsManagement.Client.dll
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\StudentsManagement.Client.pdb
 C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\ref\StudentsManagement.Client.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.pdb.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentsManagement.Shared.wasm.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.dll
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\bin\Debug\net8.0\StudentsManagement.Shared.pdb
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\webcil\StudentsManagement.Shared.wasm
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\sa9q1op3e4.gz
+C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\obj\Debug\net8.0\compressed\qhn1dyi6nj.gz

@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = StudentsManagement.Client
 build_property.RootNamespace = StudentsManagement.Client
-build_property.ProjectDir = C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\
+build_property.ProjectDir = c:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client
+build_property.MSBuildProjectDirectory = c:\Users\steph\OneDrive\Desktop\Blazor\Projet_Blazor_WebAssembly\StudentsManagement\StudentsManagement.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/Pages/Auth.razor]
+[c:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/Pages/Auth.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/Pages/Counter.razor]
+[c:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/RedirectToLogin.razor]
+[c:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = UmVkaXJlY3RUb0xvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/_Imports.razor]
+[c:/Users/steph/OneDrive/Desktop/Blazor/Projet_Blazor_WebAssembly/StudentsManagement/StudentsManagement.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

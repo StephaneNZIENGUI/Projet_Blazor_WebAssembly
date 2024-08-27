@@ -16,7 +16,7 @@ namespace StudentsManagement.Services
 
         public async Task<Student> AddStudentAsync(Student student)
         {
-            if (student == null) throw new ArgumentNullException();
+            if (student == null) return null;
 
 
             var newstudent = _context.Students.Add(student).Entity;
@@ -43,7 +43,7 @@ namespace StudentsManagement.Services
             return students;
         }
 
-        public async Task<Student?> GetStudentByIdAsync(int studentId)
+        public async Task<Student> GetStudentByIdAsync(int studentId)
         {
             var singlestudent = await _context.Students.Where(x => x.Id == studentId).FirstOrDefaultAsync();
             if (singlestudent == null) return null;
